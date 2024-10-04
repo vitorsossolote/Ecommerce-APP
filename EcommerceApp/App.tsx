@@ -1,5 +1,4 @@
-
-import React from 'react';
+import React, { useState } from "react";
 import {
   SafeAreaView,
   ScrollView,
@@ -12,6 +11,9 @@ import {GluestackUIProvider, Box, Text, Image} from '@gluestack-ui/themed';
 import SplashScreen from "./src/screens/SplashScreen"
 import OnboardingScreen from './src/screens/Onboarding';
 import Home from './src/screens/Home';
+import Login from './src/screens/Login/index'
+import CreateAccount from "./src/screens/CreateAccount/index.";
+import ForgotPassword from "./src/screens/ForgotPassword";
 
 function App(): JSX.Element {
  return (

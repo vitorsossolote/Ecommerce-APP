@@ -27,14 +27,14 @@ com.reactnativeapp-sqlite-2.2.0-25 C:\Users\Vitor\.gradle\caches\transforms-3\dc
 com.reactnativeapp-jetified-flipper-0.182.0-26 C:\Users\Vitor\.gradle\caches\transforms-3\e13f88164840fe641a466d05cd8edac7\transformed\jetified-flipper-0.182.0\res
 com.reactnativeapp-jetified-annotation-experimental-1.1.0-27 C:\Users\Vitor\.gradle\caches\transforms-3\ea88610a3c8be13450373fa73372379b\transformed\jetified-annotation-experimental-1.1.0\res
 com.reactnativeapp-drawerlayout-1.1.1-28 C:\Users\Vitor\.gradle\caches\transforms-3\f7136e33895596704e2928c39d7df1cb\transformed\drawerlayout-1.1.1\res
-com.reactnativeapp-pngs-29 C:\Users\Vitor\Documents\Projetos Dev\Ecommerce-APP\EcommerceApp\android\app\build\generated\res\pngs\debug
-com.reactnativeapp-resValues-30 C:\Users\Vitor\Documents\Projetos Dev\Ecommerce-APP\EcommerceApp\android\app\build\generated\res\resValues\debug
-com.reactnativeapp-rs-31 C:\Users\Vitor\Documents\Projetos Dev\Ecommerce-APP\EcommerceApp\android\app\build\generated\res\rs\debug
-com.reactnativeapp-mergeDebugResources-32 C:\Users\Vitor\Documents\Projetos Dev\Ecommerce-APP\EcommerceApp\android\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
-com.reactnativeapp-mergeDebugResources-33 C:\Users\Vitor\Documents\Projetos Dev\Ecommerce-APP\EcommerceApp\android\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
-com.reactnativeapp-merged_res-34 C:\Users\Vitor\Documents\Projetos Dev\Ecommerce-APP\EcommerceApp\android\app\build\intermediates\merged_res\debug
-com.reactnativeapp-debug-35 C:\Users\Vitor\Documents\Projetos Dev\Ecommerce-APP\EcommerceApp\android\app\src\debug\res
-com.reactnativeapp-main-36 C:\Users\Vitor\Documents\Projetos Dev\Ecommerce-APP\EcommerceApp\android\app\src\main\res
-com.reactnativeapp-packaged_res-37 C:\Users\Vitor\Documents\Projetos Dev\Ecommerce-APP\EcommerceApp\node_modules\react-native-safe-area-context\android\build\intermediates\packaged_res\debug
-com.reactnativeapp-packaged_res-38 C:\Users\Vitor\Documents\Projetos Dev\Ecommerce-APP\EcommerceApp\node_modules\react-native-screens\android\build\intermediates\packaged_res\debug
-com.reactnativeapp-packaged_res-39 C:\Users\Vitor\Documents\Projetos Dev\Ecommerce-APP\EcommerceApp\node_modules\react-native-svg\android\build\intermediates\packaged_res\debug
+com.reactnativeapp-pngs-29 C:\Users\Vitor\Documents\Projetos Dev\Portfolio\Ecommerce-APP\EcommerceApp\android\app\build\generated\res\pngs\debug
+com.reactnativeapp-resValues-30 C:\Users\Vitor\Documents\Projetos Dev\Portfolio\Ecommerce-APP\EcommerceApp\android\app\build\generated\res\resValues\debug
+com.reactnativeapp-rs-31 C:\Users\Vitor\Documents\Projetos Dev\Portfolio\Ecommerce-APP\EcommerceApp\android\app\build\generated\res\rs\debug
+com.reactnativeapp-mergeDebugResources-32 C:\Users\Vitor\Documents\Projetos Dev\Portfolio\Ecommerce-APP\EcommerceApp\android\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.reactnativeapp-mergeDebugResources-33 C:\Users\Vitor\Documents\Projetos Dev\Portfolio\Ecommerce-APP\EcommerceApp\android\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.reactnativeapp-merged_res-34 C:\Users\Vitor\Documents\Projetos Dev\Portfolio\Ecommerce-APP\EcommerceApp\android\app\build\intermediates\merged_res\debug
+com.reactnativeapp-debug-35 C:\Users\Vitor\Documents\Projetos Dev\Portfolio\Ecommerce-APP\EcommerceApp\android\app\src\debug\res
+com.reactnativeapp-main-36 C:\Users\Vitor\Documents\Projetos Dev\Portfolio\Ecommerce-APP\EcommerceApp\android\app\src\main\res
+com.reactnativeapp-packaged_res-37 C:\Users\Vitor\Documents\Projetos Dev\Portfolio\Ecommerce-APP\EcommerceApp\node_modules\react-native-safe-area-context\android\build\intermediates\packaged_res\debug
+com.reactnativeapp-packaged_res-38 C:\Users\Vitor\Documents\Projetos Dev\Portfolio\Ecommerce-APP\EcommerceApp\node_modules\react-native-screens\android\build\intermediates\packaged_res\debug
+com.reactnativeapp-packaged_res-39 C:\Users\Vitor\Documents\Projetos Dev\Portfolio\Ecommerce-APP\EcommerceApp\node_modules\react-native-svg\android\build\intermediates\packaged_res\debug
