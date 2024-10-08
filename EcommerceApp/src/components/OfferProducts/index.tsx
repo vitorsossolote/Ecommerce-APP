@@ -16,7 +16,11 @@ import product1 from "../../assets/images/product1.png"
 
 const OfferProducts = () => {
     return (
+<<<<<<< HEAD
         <ScrollView horizontal={true} showsHorizontalScrollIndicator={false} style={{ backgroundColor: "#f2f2f2", padding: 15, }} >
+=======
+        <ScrollView horizontal={true} showsHorizontalScrollIndicator={false} style={{ backgroundColor: "#fff", padding: 15, }} >
+>>>>>>> ca2ae00824be9c09ded86a204aaa94b710fa8554
             <View style={{ flexDirection: "row", }}>
                 <View style={{ backgroundColor: "#fff", height: 300, width: 200, borderRadius: 15, alignItems: "center" }}>
                     <Image source={product1} alt='produto1' style={{ width: "100%", height: 130, borderRadius: 15, }} />
