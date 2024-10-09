@@ -14,11 +14,12 @@ import Home from './src/screens/Home';
 import Login from './src/screens/Login/index'
 import CreateAccount from "./src/screens/CreateAccount/index.";
 import ForgotPassword from "./src/screens/ForgotPassword";
+import ProductScreen from "./src/screens/productScreen";
 
 function App(): JSX.Element {
  return (
       <GluestackUIProvider config={config}>
-        <Home/>
+        <ProductScreen/>
       </GluestackUIProvider>
   );
 }
