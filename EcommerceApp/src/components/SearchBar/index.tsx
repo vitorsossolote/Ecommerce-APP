@@ -14,6 +14,7 @@ import {
 } from "@gluestack-ui/themed"
 import { SearchIcon,Mic } from 'lucide-react-native';
 
+ //TODO ver react-magic-motion library
 
 const SearchBar = () => {
     return(

@@ -25,7 +25,7 @@ const dummyData = [
 
 const MyCarousel = ({ data }) => {
     const renderItem = ({ item }) => (
-        <View style={{ width: screenWidth - 20, height: 230, backgroundColor: "#000", alignSelf: "center", borderRadius: 30, marginTop: 40, }}>
+        <View style={{ width: screenWidth - 20, height: 230, backgroundColor: "#000", alignSelf: "center", borderRadius: 30, marginTop: 20, }}>
             <Image source={banner2} alt="banner2" style={{ width: "100%", height: "100%", borderRadius: 30, }} />
         </View>
     );

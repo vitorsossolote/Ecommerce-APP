@@ -10,6 +10,10 @@
 ## react-native ratings : npm install --save react-native-ratings
 ## npm install deprecated-react-native-prop-types
 ## npx patch-package react-native-snap-carousel.
+## npm i moti --legacy-peer-deps
+
+
+
 
 # cores
 # principal : "#F83758"

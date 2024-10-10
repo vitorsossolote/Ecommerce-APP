@@ -1,17 +1,19 @@
 
 import React from "react"
 import { Center, View, Text} from "@gluestack-ui/themed"
-import { StyleSheet, SafeAreaView } from "react-native"
+import { StyleSheet, SafeAreaView, ScrollView } from "react-native"
 import ShopHeader from "../../components/ShopHeader"
 import ShopCarrosel from "../../components/ShopCarousel";
 import ShopDescription from "../../components/ShopDescription";
+import ShopTags from "../../components/ShopTags";
 
 const ProductScreen = () => (
-    <SafeAreaView>
+    <ScrollView>
         <ShopHeader title={""} withIcon={true}/>
         <ShopCarrosel/>
         <ShopDescription/>
-    </SafeAreaView>
+        <ShopTags/>
+    </ScrollView>
 
 );
 
